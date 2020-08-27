@@ -1,2 +1,4 @@
 # CMPS2143
-OOP assignments
+Marquise Blue
+mjblue0512@my.msutexas.edu
+
